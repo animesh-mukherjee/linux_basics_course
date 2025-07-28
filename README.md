@@ -2,11 +2,11 @@
 Basic Linux commands 
 
 
-![](https://paper-attachments.dropboxusercontent.com/s_B2261D644B0BE165A5BD5745710CEEE96E9D98D0C309CBC5B5BEC1E5600C81AD_1753720149704_image.png)
+<img width="1000" height="380" alt="image" src="https://github.com/user-attachments/assets/e0f78580-8ee9-4c03-b042-a0201664ff96" />
+
 
 
 pwd (present working directory)
-
 
     pwd
     /home/michael
