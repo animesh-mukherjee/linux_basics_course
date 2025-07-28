@@ -74,6 +74,6 @@ Relative Path
     [/tmp] popd
     [~]
 
- ![homw](image-2.png)
- ![push](image-1.png)
- ![pop](image-3.png)
+ ![homw](assets/image-2.png)
+ ![push](assets/image-1.png)
+ ![pop](assets/image-3.png)
